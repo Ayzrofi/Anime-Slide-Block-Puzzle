@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_My Ads/Ads Manajer/Demo.unity
-    guid: 6d065d3fbf5172a43b14d2c74ac70ee0
+    path: Assets/Scene/Main_Menu.unity
+    guid: 6fdd38a12b1dfdf458e27b63ad8a8597
+  - enabled: 1
+    path: Assets/Scene/Main_Game.unity
+    guid: 7ea82eda263feaf409690bc1f2f7097d
